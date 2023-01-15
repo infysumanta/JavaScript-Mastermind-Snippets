@@ -24,5 +24,20 @@
         "path": "./snippets/snippets.javascript.json"
       }
     ]
-  }
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infysumanta/JavaScript-Mastermind-Snippets.git"
+  },
+  "keywords": [],
+  "author": "Sumanta Kabiraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/infysumanta/JavaScript-Mastermind-Snippets/issues"
+  },
+  "homepage": "https://github.com/infysumanta/JavaScript-Mastermind-Snippets#readme"
 }
