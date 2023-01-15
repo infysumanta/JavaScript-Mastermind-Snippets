@@ -1,0 +1,16 @@
+{
+    "Console Log (log)": {
+        "prefix": "log",
+        "body": [
+            "console.log(${1:message})"
+        ],
+        "description": "Console Log"
+    },
+    "Console Log (cl)": {
+        "prefix": "cl",
+        "body": [
+            "console.log(${1:message})"
+        ],
+        "description": "Console Log"
+    }
+}
